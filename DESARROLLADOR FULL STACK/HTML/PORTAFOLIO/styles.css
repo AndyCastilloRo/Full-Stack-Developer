@@ -1,0 +1,64 @@
+body {
+    padding: 20px;
+    background-image: url(img/cafeteria.png);
+}
+
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+
+.item p {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px 0 20px 0;
+    font-size: 18px;
+    font-family:'Lucida Sans';
+}
+
+.producto {
+    text-align: left;
+    width: 70%;
+}
+
+.precio {
+    text-align: right ;
+    width: 30%;
+}
+
+h1, h2 {
+    text-align: center;
+    color: rgb(163, 55, 5);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+}
+
+.year {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: rgb(26, 12, 5);
+}
+
+footer{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+
+    color: brown;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
